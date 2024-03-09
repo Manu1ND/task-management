@@ -1,0 +1,16 @@
+/* FilterDropdown.css */
+.filter-dropdown {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Adjust styles for smaller screens */
+@media (max-width: 768px) {
+  .filter-dropdown {
+    width: 100%;
+  }
+}
